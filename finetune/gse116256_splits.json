@@ -1,0 +1,51 @@
+{
+  "train_ids": [
+    "AML556-D0",
+    "AML475-D0",
+    "AML707B-D41",
+    "AML722B-D49",
+    "AML328-D171",
+    "BM3",
+    "AML556-D31",
+    "AML328-D0",
+    "AML916-D0",
+    "AML371-D0",
+    "AML870-D0",
+    "AML329-D37",
+    "AML314-D0",
+    "AML997-D0",
+    "BM2",
+    "AML1012-D0",
+    "AML420B-D0",
+    "BM1",
+    "AML314-D31",
+    "AML420B-D14"
+  ],
+  "eval_ids_fixed": [
+    "AML870-D14",
+    "AML997-D35",
+    "AML707B-D97",
+    "AML210A-D0",
+    "AML419A-D0"
+  ],
+  "test_ids": [
+    "BM5-34p38n",
+    "AML420B-D35",
+    "AML556-D15",
+    "MUTZ3",
+    "AML328-D113",
+    "AML329-D20",
+    "AML475-D29",
+    "AML328-D29",
+    "AML722B-D0",
+    "AML707B-D0",
+    "AML371-D34",
+    "AML707B-D113",
+    "AML707B-D18",
+    "BM5-34p",
+    "AML329-D0",
+    "BM4",
+    "AML921A-D0",
+    "OCI-AML3"
+  ]
+}
